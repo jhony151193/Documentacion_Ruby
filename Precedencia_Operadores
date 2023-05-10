@@ -1,0 +1,17 @@
+-------------------------------------------------
+
+        PRECEDENCIA DE LOS OPERADORES
+
+-------------------------------------------------
+
+1.  ** (potencia) 
+2.  ! (negación)
+3.  * (multiplicación) | / (división) | % (Módulo)
+4.  + (suma) | - (resta)
+5.  < (menor) | > (mayor) | <= (menor igual) | >= (mayor igual)
+6.  == (igual comparación) | <=> (combinado) | != (diferente)
+7.  && (and)
+8.  || (or)
+9.  Asignación
+10. not
+11. or | and
