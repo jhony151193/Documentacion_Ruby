@@ -1,0 +1,12 @@
+----------------------------------------------------------
+
+         FUNCIONES PARA EL MANEJO DE NUMEROS
+
+----------------------------------------------------------
+
+to_i   :  Convierte un número flotante en entero.
+to_f   :  Convierte un número entero en flotante.
+abs    :  Obtiene el valor absoluto de un número entero.
+even?  :  Determina si un número es par => (true/false).
+
+
